@@ -1,7 +1,14 @@
 
-- 👋 Hi, I’m @xny and I post skidded programs xD
-- 
-<!---
-xny/xny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align="center">👋I’m @xny and I post skidded programs xD</h1>
+
+<p align='center'>
+  <b>Star ⭐ if you want more</b><br>
+</p>
+
+
+## Repos
+```
+  * ShareBot
+```
+
