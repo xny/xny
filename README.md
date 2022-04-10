@@ -1,12 +1,9 @@
 
 
-<h1 align="center">👋I’m @xny and I post skidded programs xD</h1>
+<h1 align="center">👋I’m @xny and I post skidded scripts xD</h1>
+<p align="center"><img src="standard (1).gif" alt="animated" /></p>
 
-<p align="center">![standard (1)](https://user-images.githubusercontent.com/103381606/162636745-66dcfbe6-c157-4472-8ec3-e6fc993e81c0.gif)</p>
-
-<p align='center'>
-  <b>Sub ⭐ if you want more</b><br>
-</p>
+<p align='center'><b>Star ⭐ if you want more</b><br></p>
 
 ## Repos
 ```js
